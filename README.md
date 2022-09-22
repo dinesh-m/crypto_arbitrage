@@ -2,7 +2,7 @@
 
 Arbitrage is an investment strategy in which an investor simultaneously buys and sells an asset in different markets to take advantage of a price difference and generate a profit. While price differences are typically small and short-lived, the returns can be impressive when multiplied by a large volume. In other words, Arbitrage is the almost-simultaneous purchase and sale of an asset to profit from a difference in the asset's price between markets.
 
-Crypto Arbitrage Calculator is a python based application to demonstrate a similar concept showing two imaginary Crypto Exchanges: Bitstamp and Coinbase. The Bitcoin is used as a crypto token in the example here.
+Crypto Arbitrage Calculator is a python based application to demonstrate a similar concept showing two imaginary Crypto Exchanges: Bitstamp and Coinbase. The Bitcoin is used as a crypto token in the example here. The overall goal is to do a financial analysis to determine if any arbitrage opportunities exist for Bitcoin.
 
 ---
 
@@ -12,16 +12,6 @@ This project leverages python 3.7.* with the following additional packages:
 * [Jupyter Notebook](https://jupyter.org/) - The main module of the Crypto Arbitrage Calculator is written in Jupyter Notebook.
 * [Conda](https://docs.conda.io/projects/conda/en/latest/) - Conda environment is recommended to have Pandas library and other dependencies pre-installed.
 
----
-
-## Installation Guide
-
-Before running the application first install the following dependencies.
-
-```sh
-pip install X
-pip install Y
-```
 ---
 
 ## Usage
@@ -34,7 +24,9 @@ From the Git Bash terminal, make sure to 'activate conda' and appropriate virtua
   > jupyter lab
 ```
 
-Then, browse to crypto_arbitrage.ipynb starter code file to run the program.
+Then, browse to crypto_arbitrage.ipynb starter code file to run the program. See the image below for a quick hint.
+
+![Jupyter Notebook](images/app_usage.png)
 
 ## Contributors
 
